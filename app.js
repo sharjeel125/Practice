@@ -20,18 +20,18 @@ for (i=0 ; i<a3.length ; i++) {
 
 var a4 = document.getElementById('first-name');
 
-a4.value = "Muhammad Sufiyan"
+a4.value = "Muhammad Sharjeel"
 
 // Question 1 (v)
 
 var a5One = document.getElementById('last-name');
 
-a5One.value = "Abdul Ghaffar"
+a5One.value = "Muhammad Waheed"
 
 
 var a5Two = document.getElementById('email');
 
-a5Two.value = "innosufiyan@gmail.com"
+a5Two.value = "sharjeelwaheed125@gmail.com"
 
 
 // Question 2 (i)
@@ -49,7 +49,7 @@ console.log(q2Part2.childNodes);
 
 // Question 2 (iii)
 
-q2Part2.childNodes[0].nodeValue = "Last Name : Abdul Ghaffar";
+q2Part2.childNodes[0].nodeValue = "Last Name : Muhammad Waheed";
 
 // Question 2 (iv)
 
